@@ -22,7 +22,7 @@ namespace RaceDayBackend.DTOs
 
     }
 
-    public class EnrolmentDto
+    public class EnrolmentDTO
 
     {
 

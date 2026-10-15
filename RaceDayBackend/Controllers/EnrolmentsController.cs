@@ -44,7 +44,7 @@ namespace RaceDayBackend.Controllers
 
         [HttpPost]
 
-        public async Task<IActionResult> Enrol([FromBody] EnrolmentDto dto)
+        public async Task<IActionResult> Enrol([FromBody] EnrolmentDTO dto)
 
         {
 
