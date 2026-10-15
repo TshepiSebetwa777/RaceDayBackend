@@ -1,6 +1,6 @@
 ﻿namespace RaceDayBackend.Models
 {
-    public class Sponser
+    public class Sponsor
     {
     }
 }

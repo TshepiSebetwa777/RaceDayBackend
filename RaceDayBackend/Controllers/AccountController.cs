@@ -20,9 +20,9 @@ namespace RaceDayBackend.Controllers
 
     {
 
-        private readonly RaceDayDbContext _context;
+        private readonly RaceDayDBContext _context;
 
-        public AccountController(RaceDayDbContext context)
+        public AccountController(RaceDayDBContext context)
 
         {
 
@@ -156,4 +156,3 @@ namespace RaceDayBackend.Controllers
 
 }
 
-10:30 Meeting started

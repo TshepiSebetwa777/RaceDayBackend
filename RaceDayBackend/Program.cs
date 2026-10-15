@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // 1. Add Database Context
 
-builder.Services.AddDbContext<RaceDayDbContext>(options =>
+builder.Services.AddDbContext<RaceDayDBContext>(options =>
 
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
