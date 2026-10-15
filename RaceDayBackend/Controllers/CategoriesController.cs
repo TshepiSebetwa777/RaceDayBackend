@@ -42,7 +42,7 @@ namespace RaceDayBackend.Controllers
 
         [HttpPost]
 
-        public async Task<IActionResult> CreateCategory([FromBody] CategoryDto dto)
+        public async Task<IActionResult> CreateCategory([FromBody] CategoryDTO dto)
 
         {
 

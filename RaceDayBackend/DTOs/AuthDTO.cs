@@ -6,7 +6,7 @@ namespace RaceDayBackend.DTOs
 
     // Matches the request body for /api/account/register
 
-    public class RegisterDto
+    public class RegisterDTO
 
     {
 
